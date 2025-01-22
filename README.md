@@ -28,7 +28,7 @@ GROQ_API_KEY=your_api_key_here
 4.	main.py: Main script to run the research, writing, and editing sequence.
 
 ## Usage 
-1. Run the main.py file to initiate the sequence
+Run the main.py file to initiate the sequence
 ```bash
 python main.py
 ```
